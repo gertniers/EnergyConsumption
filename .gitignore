@@ -1,0 +1,17 @@
+/knmi_data.csv
+/mylogs.log
+/processdata.csv
+/processed_gas.csv
+/readings_CVout.csv
+/readings_gas.csv
+/readings_tapwater.csv
+
+# data files
+*.log
+*.csv
+*.pkl
+*.zip
+*.tar
+*.iso
+
+
